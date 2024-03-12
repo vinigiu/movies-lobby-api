@@ -121,5 +121,5 @@ Replace {movieId} by the movie id you want to update information.
 ## How to run tests:
 
 1. Simply run ```npm test```
-2. Not all tests are created yet. It's a improvement to be developed. 
+2. Not all tests are created yet. It's an improvement to be developed. 
 
