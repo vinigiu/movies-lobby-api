@@ -118,4 +118,8 @@ Replace {movieId} by the movie id you want to update information.
 
 3. If sucessful you should receive a JSON with the Movie Object deleted.
 
+## How to run tests:
+
+1. Simply run ```npm test```
+2. Not all tests are created yet. It's a improvement to be developed. 
 
